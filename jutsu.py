@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 from config import HEADERS, LINK
 
-DIR = input("выбери папку в которую будет загружаться аниме: ")
+DIR = input("выбери папку в которую будет загружаться аниме(2 раза): ")
 class Episode:
     def __init__(self, episode_name: str, href: str) -> None:
         self.name = episode_name
