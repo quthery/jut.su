@@ -5,7 +5,7 @@ import aiofiles
 import aiohttp
 from bs4 import BeautifulSoup
 
-from config import DIR, HEADERS, LINK
+from config import HEADERS, LINK
 
 DIR = input("выбери папку в которую будет загружаться аниме: ")
 class Episode:

@@ -4,7 +4,7 @@ from jutsu import JutSu, get_link_and_download
 
 
 async def main():
-    slug = input("Отправь ссылку или имя(для вставки ctrl+shift+v): ")
+    slug = input("Отправь ссылку или имя(для вставки ctrl++v): ")
 
     if slug.startswith("http"):
         slug = slug.split("/")[3]
