@@ -8,7 +8,8 @@
   
 
 
-![image](https://github.com/quthery/jut.su/assets/135026855/443e86a2-9d87-405e-8c85-6c8aef07e60f)
+![Снимок экрана (8)](https://github.com/quthery/jut.su/assets/135026855/dd46e424-733e-4047-b69f-3af790568e9d)
+
 
 
 ## Необязательно
